@@ -1,0 +1,827 @@
+ARGUS Web Clear Report
+Generated: 2025-09-08T16:08:08
+
+Name: Peter Roumeliotis
+City: N/A
+State: N/A
+Status: completed
+Started: 2025-09-08T15:57:58
+Finished: 2025-09-08T16:08:08
+
+Providers:
+- FamilyTreeNow.com: not_found — No results detected
+  Records: 0
+  Opt-out submitted: No
+  Started: 2025-09-08T15:57:59
+  Finished: 2025-09-08T15:58:09
+
+- FreePeopleSearch.com: not_found — No results detected
+  Records: 0
+  Opt-out submitted: No
+  Started: 2025-09-08T15:58:09
+  Finished: 2025-09-08T15:58:15
+
+- NumLookUp.com: found — Matches found
+  Records: 5
+  Opt-out submitted: No
+  URLs:
+    - https://numlookup.com/
+    - https://numlookup.com/about-us
+    - https://numlookup.com/how-numlookup-works
+    - https://numlookup.com/our-sources-for-phone-data
+    - https://numlookup.com/signin
+  Started: 2025-09-08T15:58:16
+  Finished: 2025-09-08T15:58:16
+
+- Nuwber.com: not_found — No results detected
+  Records: 0
+  Opt-out submitted: No
+  Started: 2025-09-08T15:58:17
+  Finished: 2025-09-08T15:58:24
+
+- PeopleSearchExpert.com: found — Matches found
+  Records: 3
+  Opt-out submitted: No
+  URLs:
+    - https://www.peoplesearchexpert.com/
+    - https://www.peoplesearchexpert.com/people/
+    - https://www.peoplesearchexpert.com/privacy-policy
+  Started: 2025-09-08T15:58:24
+  Finished: 2025-09-08T15:58:26
+
+- PublicDataUSA.com: not_found — No results detected
+  Records: 0
+  Opt-out submitted: No
+  Started: 2025-09-08T15:58:26
+  Finished: 2025-09-08T15:58:32
+
+- ReversePhoneCheck.com: not_found — No results detected
+  Records: 0
+  Opt-out submitted: No
+  Started: 2025-09-08T15:58:33
+  Finished: 2025-09-08T15:58:54
+
+- Spokeo.com: found — Matches found
+  Records: 5
+  Opt-out submitted: No
+  URLs:
+    - https://www.spokeo.com/people/QR0001
+    - https://www.spokeo.com/Peter-Roumeliotis/Illinois/Joliet/p2018020819005902407102538729111
+    - https://www.spokeo.com/Peter-Roumeliotis/New-York/Astoria/p218184458491571405202
+    - https://www.spokeo.com/Peter-Roumeliotis/New-York/Brooklyn/p2015021206111311435252612793620
+    - https://www.spokeo.com/Peter-Roumeliotis/New-York/Hauppauge/p9363176541852679649735034
+  Started: 2025-09-08T15:58:55
+  Finished: 2025-09-08T15:58:56
+
+- StateRecords.org: found — Matches found
+  Records: 5
+  Opt-out submitted: No
+  URLs:
+    - https://staterecords.org/
+    - https://members.staterecords.org/customer/login
+    - https://members.staterecords.org/customer/help
+    - https://members.staterecords.org/customer/terms
+    - https://members.staterecords.org/customer/privacy
+  Started: 2025-09-08T15:58:56
+  Finished: 2025-09-08T15:59:05
+
+- TelephoneDirectories.us: found — Matches found
+  Records: 3
+  Opt-out submitted: No
+  URLs:
+    - https://telephonedirectories.us/
+    - https://telephonedirectories.us/People-Search
+    - https://telephonedirectories.us/Reverse-Phone-Lookup
+  Started: 2025-09-08T15:59:05
+  Finished: 2025-09-08T15:59:10
+
+- ThatsThem.com: found — Matches found
+  Records: 5
+  Opt-out submitted: No
+  URLs:
+    - https://thatsthem.com/
+    - https://thatsthem.com/people-search
+    - https://thatsthem.com/reverse-address-lookup
+    - https://thatsthem.com/reverse-phone-lookup
+    - https://thatsthem.com/reverse-email-lookup
+  Started: 2025-09-08T15:59:10
+  Finished: 2025-09-08T15:59:13
+
+- TruePeopleSearch.com: not_found — 403 Client Error: Forbidden for url: https://www.truepeoplesearch.com/results?name=Peter+Roumeliotis
+  Records: 0
+  Opt-out submitted: No
+  Started: 2025-09-08T15:59:13
+  Finished: 2025-09-08T15:59:13
+
+- Unmask.com: not_found — No results detected
+  Records: 0
+  Opt-out submitted: No
+  Started: 2025-09-08T15:59:13
+  Finished: 2025-09-08T15:59:19
+
+- VerifyRecords.com: found — Matches found
+  Records: 5
+  Opt-out submitted: No
+  URLs:
+    - http://verifyrecords.com
+    - http://verifyrecords.com/About.html
+    - http://members.verifyrecords.com/customer/login
+    - http://verifyrecords.com/faq.html
+    - http://verifyrecords.com/Privacy.html
+  Started: 2025-09-08T15:59:19
+  Finished: 2025-09-08T15:59:30
+
+- MyLife.com: found — Matches found
+  Records: 3
+  Opt-out submitted: No
+  URLs:
+    - https://mylife.com/showRegistration.pub
+    - https://mylife.com/site/login.pubview
+    - https://mylife.com/site/import-contacts.pubview
+  Started: 2025-09-08T15:59:30
+  Finished: 2025-09-08T16:00:00
+
+- TexasWarrantRoundUp.org: found — Matches found
+  Records: 1
+  Opt-out submitted: No
+  URLs:
+    - https://texaswarrantroundup.org/
+  Started: 2025-09-08T16:00:00
+  Finished: 2025-09-08T16:00:01
+
+- Information.com: found — Matches found
+  Records: 5
+  Opt-out submitted: No
+  URLs:
+    - https://information.com/
+    - https://information.com/reverse-address-lookup/
+    - https://information.com/email-lookup/
+    - https://information.com/people/
+    - https://information.com/public-records-search/
+  Started: 2025-09-08T16:00:01
+  Finished: 2025-09-08T16:00:11
+
+- ArrestWarrant.org: found — Matches found
+  Records: 4
+  Opt-out submitted: No
+  URLs:
+    - http://www.arrestwarrant.org
+    - http://www.arrestwarrant.org/about.html
+    - http://arrestwarrant.org/privacypolicy.html
+    - http://arrestwarrant.org
+  Started: 2025-09-08T16:00:11
+  Finished: 2025-09-08T16:00:29
+
+- USPhoneBook.com: not_found — No results detected
+  Records: 0
+  Opt-out submitted: No
+  Started: 2025-09-08T16:00:29
+  Finished: 2025-09-08T16:00:44
+
+- ClustrMaps.com: found — Matches found
+  Records: 2
+  Opt-out submitted: No
+  URLs:
+    - https://clustrmaps.com/
+    - https://clustrmaps.com/p/
+  Started: 2025-09-08T16:00:44
+  Finished: 2025-09-08T16:00:44
+
+- CyberBackgroundChecks.com: not_found — No results detected
+  Records: 0
+  Opt-out submitted: No
+  Started: 2025-09-08T16:00:44
+  Finished: 2025-09-08T16:00:55
+
+- OpenGovNY.com: found — Matches found
+  Records: 5
+  Opt-out submitted: No
+  URLs:
+    - https://opengovny.com/
+    - https://opengovny.com/health-facility
+    - https://opengovny.com/adult-care-facility
+    - https://opengovny.com/public-authority
+    - https://opengovny.com/public-authority-salary
+  Started: 2025-09-08T16:00:55
+  Finished: 2025-09-08T16:00:56
+
+- RealtyHop.com: not_found — No results detected
+  Records: 0
+  Opt-out submitted: No
+  Started: 2025-09-08T16:00:56
+  Finished: 2025-09-08T16:01:01
+
+- AdvancedBackgroundChecks.com: not_found — No results detected
+  Records: 0
+  Opt-out submitted: No
+  Started: 2025-09-08T16:01:02
+  Finished: 2025-09-08T16:01:18
+
+- BackgroundCheck.run: found — Matches found
+  Records: 4
+  Opt-out submitted: No
+  URLs:
+    - https://backgroundcheck.run/
+    - https://backgroundcheck.run/pg/about
+    - https://backgroundcheck.run/pg/contact
+    - https://backgroundcheck.run/login/login
+  Started: 2025-09-08T16:01:18
+  Finished: 2025-09-08T16:01:18
+
+- ClubSet.com: found — Matches found
+  Records: 4
+  Opt-out submitted: No
+  URLs:
+    - https://clubset.com/static/about
+    - https://clubset.com/static/contact
+    - https://clubset.com/login/login
+    - https://clubset.com/static/terms
+  Started: 2025-09-08T16:01:19
+  Finished: 2025-09-08T16:01:23
+
+- Councilon.com: found — Matches found
+  Records: 4
+  Opt-out submitted: No
+  URLs:
+    - https://councilon.com/login/login
+    - https://councilon.com/ex/control/privacy
+    - https://councilon.com/cms/about
+    - https://councilon.com/in/
+  Started: 2025-09-08T16:01:23
+  Finished: 2025-09-08T16:01:27
+
+- Dataveria.com: found — Matches found
+  Records: 4
+  Opt-out submitted: No
+  URLs:
+    - https://dataveria.com/
+    - https://dataveria.com/p/Peter-Roumeliotis-32b26qa2
+    - https://dataveria.com/p/Peter-Roumeliotis-2p4q3162
+    - https://dataveria.com/name/peter/roumeliotis/
+  Started: 2025-09-08T16:01:27
+  Finished: 2025-09-08T16:01:30
+
+- BeenVerified.com: found — Matches found
+  Records: 5
+  Opt-out submitted: No
+  URLs:
+    - https://www.beenverified.com/lp/f429ba/1/landing
+    - https://www.beenverified.com/
+    - https://www.beenverified.com/people/
+    - https://www.beenverified.com/reverse-phone/
+    - https://www.beenverified.com/email-search/
+  Started: 2025-09-08T16:01:30
+  Finished: 2025-09-08T16:01:42
+
+- IDCrawl.com: found — Matches found
+  Records: 4
+  Opt-out submitted: No
+  URLs:
+    - https://idcrawl.com/
+    - https://idcrawl.com/username-search
+    - https://idcrawl.com/phone-lookup
+    - https://idcrawl.com/email-lookup
+  Started: 2025-09-08T16:01:42
+  Finished: 2025-09-08T16:01:44
+
+- KWold.com: found — Matches found
+  Records: 5
+  Opt-out submitted: No
+  URLs:
+    - https://kwold.com/login/login
+    - https://kwold.com/ns/control/privacy
+    - https://kwold.com/pg/about
+    - https://kwold.com/abc/
+    - https://kwold.com/pg/terms
+  Started: 2025-09-08T16:01:44
+  Finished: 2025-09-08T16:01:49
+
+- NeighborWho.com: found — Matches found
+  Records: 2
+  Opt-out submitted: No
+  URLs:
+    - https://www.neighborwho.com/app/login
+    - https://www.neighborwho.com/lp/efde84/1/loading
+  Started: 2025-09-08T16:01:49
+  Finished: 2025-09-08T16:02:04
+
+- NewEnglandFacts.com: found — Matches found
+  Records: 4
+  Opt-out submitted: No
+  URLs:
+    - https://newenglandfacts.com/
+    - https://newenglandfacts.com/pg/about
+    - https://newenglandfacts.com/pg/contact
+    - https://newenglandfacts.com/login/login
+  Started: 2025-09-08T16:02:04
+  Finished: 2025-09-08T16:02:04
+
+- Ownerly.com: found — Matches found
+  Records: 3
+  Opt-out submitted: No
+  URLs:
+    - https://www.ownerly.com/login
+    - https://www.ownerly.com/lp/8c2312/1/landing
+    - https://www.ownerly.com/
+  Started: 2025-09-08T16:02:05
+  Finished: 2025-09-08T16:02:05
+
+- NumberGuru.com: found — Matches found
+  Records: 5
+  Opt-out submitted: No
+  URLs:
+    - https://www.numberguru.com/phone/
+    - https://www.numberguru.com/top-phone-numbers/
+    - https://www.numberguru.com/most-commented-phone-numbers/
+    - https://numberguru.com/lp/61a2e1/4/subscribe?direct_to_subscribe=true
+    - https://www.numberguru.com/app/login
+  Started: 2025-09-08T16:02:06
+  Finished: 2025-09-08T16:02:25
+
+- People-Background-Check.com: found — Matches found
+  Records: 4
+  Opt-out submitted: No
+  URLs:
+    - https://people-background-check.com/
+    - https://people-background-check.com/page/about
+    - https://people-background-check.com/page/contact
+    - https://people-background-check.com/login/login
+  Started: 2025-09-08T16:02:25
+  Finished: 2025-09-08T16:02:26
+
+- PeopleLooker.com: found — Matches found
+  Records: 5
+  Opt-out submitted: No
+  URLs:
+    - https://www.peoplelooker.com/people-search/
+    - https://www.peoplelooker.com/phone-number-search/
+    - https://www.peoplelooker.com/phone-search/
+    - https://www.peoplelooker.com/email-lookup/
+    - https://www.peoplelooker.com/address-search/
+  Started: 2025-09-08T16:02:26
+  Finished: 2025-09-08T16:02:40
+
+- PersonTrust.com: found — Matches found
+  Records: 4
+  Opt-out submitted: No
+  URLs:
+    - https://persontrust.com/
+    - https://persontrust.com/page/about
+    - https://persontrust.com/page/contact
+    - https://persontrust.com/login/login
+  Started: 2025-09-08T16:02:40
+  Finished: 2025-09-08T16:02:41
+
+- Pub360.com: found — Matches found
+  Records: 5
+  Opt-out submitted: No
+  URLs:
+    - https://pub360.com/
+    - https://pub360.com/about
+    - https://pub360.com/contact
+    - https://pub360.com/search?name=Peter+Roumeliotis&city_state=Alabama
+    - https://pub360.com/search?name=Peter+Roumeliotis&city_state=California
+  Started: 2025-09-08T16:02:41
+  Finished: 2025-09-08T16:02:41
+
+- Radaris.com: found — Matches found
+  Records: 5
+  Opt-out submitted: No
+  URLs:
+    - https://radaris.com/
+    - https://radaris.com/phone-lookup
+    - https://radaris.com/reverse-address-lookup
+    - https://radaris.com/people-search-by-photo
+    - https://radaris.com/social-media-finder
+  Started: 2025-09-08T16:02:42
+  Finished: 2025-09-08T16:02:43
+
+- Stage-Research.net: found — Matches found
+  Records: 4
+  Opt-out submitted: No
+  URLs:
+    - https://stage-research.net/page/about
+    - https://stage-research.net/page/contact
+    - https://stage-research.net/login/login
+    - https://stage-research.net/ng/control/privacy
+  Started: 2025-09-08T16:02:44
+  Finished: 2025-09-08T16:02:48
+
+- StateCourts.org: found — Matches found
+  Records: 4
+  Opt-out submitted: No
+  URLs:
+    - https://statecourts.org/
+    - https://statecourts.org/inmate-search/
+    - https://statecourts.org/help/
+    - https://members.statecourts.org/customer/login
+  Started: 2025-09-08T16:02:48
+  Finished: 2025-09-08T16:02:55
+
+- USSearch.com: not_found — No results detected
+  Records: 0
+  Opt-out submitted: No
+  Started: 2025-09-08T16:02:56
+  Finished: 2025-09-08T16:03:07
+
+- Verecor.com: found — Matches found
+  Records: 4
+  Opt-out submitted: No
+  URLs:
+    - https://verecor.com/page/about
+    - https://verecor.com/page/contact
+    - https://verecor.com/login/login
+    - https://verecor.com/alpha/
+  Started: 2025-09-08T16:03:07
+  Finished: 2025-09-08T16:03:12
+
+- Vericora.com: found — Matches found
+  Records: 4
+  Opt-out submitted: No
+  URLs:
+    - https://vericora.com/page/about
+    - https://vericora.com/page/contact
+    - https://vericora.com/login/login
+    - https://vericora.com/ng/control/privacy
+  Started: 2025-09-08T16:03:12
+  Finished: 2025-09-08T16:03:16
+
+- Veriforia.com: found — Matches found
+  Records: 4
+  Opt-out submitted: No
+  URLs:
+    - https://veriforia.com/page/about
+    - https://veriforia.com/page/contact
+    - https://veriforia.com/login/login
+    - https://veriforia.com/alpha/
+  Started: 2025-09-08T16:03:16
+  Finished: 2025-09-08T16:03:20
+
+- VeriPages.com: found — Matches found
+  Records: 4
+  Opt-out submitted: No
+  URLs:
+    - https://veripages.com/login/login
+    - https://veripages.com/page/about
+    - https://veripages.com/reverse-phone-lookup
+    - https://veripages.com/criminal-records
+  Started: 2025-09-08T16:03:20
+  Finished: 2025-09-08T16:03:25
+
+- Virtory.com: found — Matches found
+  Records: 4
+  Opt-out submitted: No
+  URLs:
+    - https://virtory.com/login/login
+    - https://virtory.com/prvt/control/privacy
+    - https://virtory.com/info/about
+    - https://virtory.com/directory/
+  Started: 2025-09-08T16:03:26
+  Finished: 2025-09-08T16:03:31
+
+- WellNut.com: found — Matches found
+  Records: 4
+  Opt-out submitted: No
+  URLs:
+    - https://wellnut.com/data/about
+    - https://wellnut.com/data/contact
+    - https://wellnut.com/login/login
+    - https://wellnut.com/noi/control/privacy
+  Started: 2025-09-08T16:03:31
+  Finished: 2025-09-08T16:03:36
+
+- ZabaSearch.com: not_found — No results detected
+  Records: 0
+  Opt-out submitted: No
+  Started: 2025-09-08T16:03:36
+  Finished: 2025-09-08T16:03:46
+
+- City-Data.com: found — Matches found
+  Records: 4
+  Opt-out submitted: No
+  URLs:
+    - https://city-data.com/
+    - https://city-data.com//www.city-data.com/forum/
+    - https://city-data.com/city/Alaska.html
+    - https://city-data.com/city/Alabama.html
+  Started: 2025-09-08T16:03:46
+  Finished: 2025-09-08T16:03:47
+
+- FastPeopleSearch.com: not_found — 403 Client Error: Forbidden for url: https://www.fastpeoplesearch.com/name?name=Peter+Roumeliotis
+  Records: 0
+  Opt-out submitted: No
+  Started: 2025-09-08T16:03:47
+  Finished: 2025-09-08T16:03:48
+
+- Inforver.com: found — Matches found
+  Records: 5
+  Opt-out submitted: No
+  URLs:
+    - https://inforver.com/
+    - https://inforver.com/about
+    - https://inforver.com/contact
+    - https://inforver.com/search?name=Peter+Roumeliotis&city_state=Alabama
+    - https://inforver.com/search?name=Peter+Roumeliotis&city_state=California
+  Started: 2025-09-08T16:03:48
+  Finished: 2025-09-08T16:03:48
+
+- OfSearch.org: found — Matches found
+  Records: 5
+  Opt-out submitted: No
+  URLs:
+    - https://ofsearch.org/
+    - https://ofsearch.org/about
+    - https://ofsearch.org/contact
+    - https://ofsearch.org/search?name=Peter+Roumeliotis&city_state=Alabama
+    - https://ofsearch.org/search?name=Peter+Roumeliotis&city_state=California
+  Started: 2025-09-08T16:03:49
+  Finished: 2025-09-08T16:03:49
+
+- SocialCatfish.com: not_found — No results detected
+  Records: 0
+  Opt-out submitted: No
+  Started: 2025-09-08T16:03:49
+  Finished: 2025-09-08T16:03:55
+
+- TruthFinder.com: not_found — No results detected
+  Records: 0
+  Opt-out submitted: No
+  Started: 2025-09-08T16:03:55
+  Finished: 2025-09-08T16:04:06
+
+- InstantCheckmate.com: not_found — No results detected
+  Records: 0
+  Opt-out submitted: No
+  Started: 2025-09-08T16:04:06
+  Finished: 2025-09-08T16:04:17
+
+- Intelius.com: not_found — No results detected
+  Records: 0
+  Opt-out submitted: No
+  Started: 2025-09-08T16:04:17
+  Finished: 2025-09-08T16:04:28
+
+- Homes.com: not_found — No results detected
+  Records: 0
+  Opt-out submitted: No
+  Started: 2025-09-08T16:04:28
+  Finished: 2025-09-08T16:04:33
+
+- BlockShopper.com: found — Matches found
+  Records: 5
+  Opt-out submitted: No
+  URLs:
+    - https://blockshopper.com/
+    - https://blockshopper.com/sales
+    - https://blockshopper.com/about-us
+    - https://blockshopper.com/advertise
+    - https://blockshopper.com/contact-us
+  Started: 2025-09-08T16:04:33
+  Finished: 2025-09-08T16:04:35
+
+- AllPeople.com: not_found — No results detected
+  Records: 0
+  Opt-out submitted: No
+  Started: 2025-09-08T16:04:35
+  Finished: 2025-09-08T16:04:41
+
+- BestHistorySites.net: not_found — No results detected
+  Records: 0
+  Opt-out submitted: No
+  Started: 2025-09-08T16:04:41
+  Finished: 2025-09-08T16:04:46
+
+- CheckPeople.com: found — Matches found
+  Records: 4
+  Opt-out submitted: No
+  URLs:
+    - https://checkpeople.com
+    - https://checkpeople.com/reverse-phone-lookup
+    - https://checkpeople.com/background-check
+    - https://checkpeople.com/arrest-records
+  Started: 2025-09-08T16:04:47
+  Finished: 2025-09-08T16:04:53
+
+- CocoFinder.com: not_found — No results detected
+  Records: 0
+  Opt-out submitted: No
+  Started: 2025-09-08T16:04:53
+  Finished: 2025-09-08T16:04:58
+
+- CourtCaseFinder.com: found — Matches found
+  Records: 4
+  Opt-out submitted: No
+  URLs:
+    - https://courtcasefinder.com
+    - https://courtcasefinder.com/services
+    - https://courtcasefinder.com/register
+    - https://courtcasefinder.com/help
+  Started: 2025-09-08T16:04:58
+  Finished: 2025-09-08T16:05:12
+
+- FastBackgroundCheck.com: not_found — No results detected
+  Records: 0
+  Opt-out submitted: No
+  Started: 2025-09-08T16:05:12
+  Finished: 2025-09-08T16:05:23
+
+- GovernmentRegistry.org: found — Matches found
+  Records: 4
+  Opt-out submitted: No
+  URLs:
+    - https://www.governmentregistry.org
+    - https://www.governmentregistry.org/terms
+    - https://www.governmentregistry.org/privacy
+    - https://www.governmentregistry.org/contact
+  Started: 2025-09-08T16:05:23
+  Finished: 2025-09-08T16:05:24
+
+- InfoTracer.com: found — Matches found
+  Records: 2
+  Opt-out submitted: No
+  URLs:
+    - https://infotracer.com/privacy/
+    - https://infotracer.com/terms/
+  Started: 2025-09-08T16:05:24
+  Finished: 2025-09-08T16:05:26
+
+- KidsLiveSafe.com: found — Matches found
+  Records: 5
+  Opt-out submitted: No
+  URLs:
+    - https://kidslivesafe.com/
+    - https://kidslivesafe.com/help-center/sample-public-records-search-report
+    - https://members.kidslivesafe.com/login
+    - https://kidslivesafe.com/neighborhood/index
+    - https://kidslivesafe.com/people/index
+  Started: 2025-09-08T16:05:26
+  Finished: 2025-09-08T16:05:39
+
+- MyHeritage.com: found — Matches found
+  Records: 4
+  Opt-out submitted: No
+  URLs:
+    - https://myheritage.com/
+    - https://www.myheritage.com/dna
+    - https://www.myheritage.com/family-tree
+    - https://www.myheritage.com
+  Started: 2025-09-08T16:05:40
+  Finished: 2025-09-08T16:05:43
+
+- Neighbor.Report: found — Matches found
+  Records: 5
+  Opt-out submitted: No
+  URLs:
+    - https://neighbor.report/
+    - https://neighbor.report/d/
+    - https://neighbor.report/about
+    - https://neighbor.report/login/
+    - https://neighbor.report/register/
+  Started: 2025-09-08T16:05:43
+  Finished: 2025-09-08T16:05:44
+
+- People-Search.org: found — Matches found
+  Records: 5
+  Opt-out submitted: No
+  URLs:
+    - https://www.people-search.org/
+    - https://www.people-search.org/people
+    - https://www.people-search.org/reverse-phone-lookup
+    - https://www.people-search.org/people/a/
+    - https://www.people-search.org/people/b/
+  Started: 2025-09-08T16:05:44
+  Finished: 2025-09-08T16:05:53
+
+- PeopleWhiz.com: found — Matches found
+  Records: 5
+  Opt-out submitted: No
+  URLs:
+    - https://peoplewhiz.com/
+    - https://peoplewhiz.com/about
+    - https://peoplewhiz.com/people-whiz-difference
+    - https://peoplewhiz.com/parameters-of-use
+    - https://peoplewhiz.com/faq
+  Started: 2025-09-08T16:05:53
+  Finished: 2025-09-08T16:06:17
+
+- PublicDataCheck.com: found — Matches found
+  Records: 5
+  Opt-out submitted: No
+  URLs:
+    - https://publicdatacheck.com/
+    - https://publicdatacheck.com/help-center/sample-public-records-search-report
+    - https://members.publicdatacheck.com/login
+    - https://vehicle.publicdatacheck.com
+    - https://publicdatacheck.com/help-center/terms
+  Started: 2025-09-08T16:06:17
+  Finished: 2025-09-08T16:06:32
+
+- PublicRecordReports.com: found — Matches found
+  Records: 5
+  Opt-out submitted: No
+  URLs:
+    - https://publicrecordreports.com/
+    - https://members.publicrecordreports.com/login
+    - https://publicrecordreports.com/help-center/terms
+    - https://publicrecordreports.com/help-center/help-center
+    - https://publicrecordreports.com/help-center/faqs
+  Started: 2025-09-08T16:06:32
+  Finished: 2025-09-08T16:06:45
+
+- RecordsFinder.com: found — Matches found
+  Records: 4
+  Opt-out submitted: No
+  URLs:
+    - https://recordsfinder.com/
+    - https://recordsfinder.com/arrest/
+    - https://recordsfinder.com/asset/
+    - https://recordsfinder.com/bankruptcy/
+  Started: 2025-09-08T16:06:45
+  Finished: 2025-09-08T16:06:52
+
+- RocketReach.co: found — Matches found
+  Records: 4
+  Opt-out submitted: No
+  URLs:
+    - https://rocketreach.co/login
+    - https://rocketreach.co/pricing
+    - https://rocketreach.co/browser_extension
+    - https://rocketreach.co/splash
+  Started: 2025-09-08T16:06:52
+  Finished: 2025-09-08T16:06:53
+
+- SearchQuarry.com: found — Matches found
+  Records: 4
+  Opt-out submitted: No
+  URLs:
+    - https://www.searchquarry.com/
+    - https://searchquarry.com/
+    - https://searchquarry.com/features
+    - https://searchquarry.com/about-us
+  Started: 2025-09-08T16:06:53
+  Finished: 2025-09-08T16:07:00
+
+- ThisNumber.com: found — Matches found
+  Records: 4
+  Opt-out submitted: No
+  URLs:
+    - https://thisnumber.com/
+    - https://www.thisnumber.com/
+    - https://thisnumber.com/terms
+    - https://thisnumber.com/privacy
+  Started: 2025-09-08T16:07:00
+  Finished: 2025-09-08T16:07:05
+
+- VerifyPublicRecords.com: found — Matches found
+  Records: 1
+  Opt-out submitted: No
+  URLs:
+    - http://verifypublicrecords.com/index.php
+  Started: 2025-09-08T16:07:05
+  Finished: 2025-09-08T16:07:28
+
+- VoterRecords.com: not_found — No results detected
+  Records: 0
+  Opt-out submitted: No
+  Started: 2025-09-08T16:07:28
+  Finished: 2025-09-08T16:07:37
+
+- WhitePages.com: not_found — 403 Client Error: Forbidden for url: https://www.whitepages.com/name/Peter-Roumeliotis
+  Records: 0
+  Opt-out submitted: No
+  Started: 2025-09-08T16:07:37
+  Finished: 2025-09-08T16:07:37
+
+- USATrace.com: found — Matches found
+  Records: 4
+  Opt-out submitted: No
+  URLs:
+    - https://www.usatrace.com/
+    - https://www.usatrace.com/author/ron-richardson/
+    - https://www.usatrace.com/wp-content/uploads/2019/02/usa-people-search.jpg
+    - mailto:research@usatrace.com
+  Started: 2025-09-08T16:07:37
+  Finished: 2025-09-08T16:07:39
+
+- USA-People-Search.com: not_found — No results detected
+  Records: 0
+  Opt-out submitted: No
+  Started: 2025-09-08T16:07:39
+  Finished: 2025-09-08T16:07:53
+
+- SearchPeopleFree.com: not_found — No results detected
+  Records: 0
+  Opt-out submitted: No
+  Started: 2025-09-08T16:07:53
+  Finished: 2025-09-08T16:08:04
+
+- 411.com: found — Matches found
+  Records: 3
+  Opt-out submitted: No
+  URLs:
+    - https://411.com/
+    - https://411.com/reverse-phone-lookup
+    - https://411.com/people-search
+  Started: 2025-09-08T16:08:05
+  Finished: 2025-09-08T16:08:07
+

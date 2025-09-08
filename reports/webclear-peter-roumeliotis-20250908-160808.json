@@ -1,0 +1,1170 @@
+{
+  "name": "Peter Roumeliotis",
+  "city": "",
+  "state": "",
+  "status": "completed",
+  "started_at": "2025-09-08T15:57:58",
+  "finished_at": "2025-09-08T16:08:08",
+  "providers": {
+    "familytreenow-com": {
+      "display_name": "FamilyTreeNow.com",
+      "status": "not_found",
+      "message": "No results detected",
+      "records_found": 0,
+      "opt_out_submitted": false,
+      "urls": [],
+      "started_at": "2025-09-08T15:57:59",
+      "finished_at": "2025-09-08T15:58:09"
+    },
+    "freepeoplesearch-com": {
+      "display_name": "FreePeopleSearch.com",
+      "status": "not_found",
+      "message": "No results detected",
+      "records_found": 0,
+      "opt_out_submitted": false,
+      "urls": [],
+      "started_at": "2025-09-08T15:58:09",
+      "finished_at": "2025-09-08T15:58:15"
+    },
+    "numlookup-com": {
+      "display_name": "NumLookUp.com",
+      "status": "found",
+      "message": "Matches found",
+      "records_found": 5,
+      "opt_out_submitted": false,
+      "urls": [
+        "https://numlookup.com/",
+        "https://numlookup.com/about-us",
+        "https://numlookup.com/how-numlookup-works",
+        "https://numlookup.com/our-sources-for-phone-data",
+        "https://numlookup.com/signin"
+      ],
+      "started_at": "2025-09-08T15:58:16",
+      "finished_at": "2025-09-08T15:58:16"
+    },
+    "nuwber-com": {
+      "display_name": "Nuwber.com",
+      "status": "not_found",
+      "message": "No results detected",
+      "records_found": 0,
+      "opt_out_submitted": false,
+      "urls": [],
+      "started_at": "2025-09-08T15:58:17",
+      "finished_at": "2025-09-08T15:58:24"
+    },
+    "peoplesearchexpert-com": {
+      "display_name": "PeopleSearchExpert.com",
+      "status": "found",
+      "message": "Matches found",
+      "records_found": 3,
+      "opt_out_submitted": false,
+      "urls": [
+        "https://www.peoplesearchexpert.com/",
+        "https://www.peoplesearchexpert.com/people/",
+        "https://www.peoplesearchexpert.com/privacy-policy"
+      ],
+      "started_at": "2025-09-08T15:58:24",
+      "finished_at": "2025-09-08T15:58:26"
+    },
+    "publicdatausa-com": {
+      "display_name": "PublicDataUSA.com",
+      "status": "not_found",
+      "message": "No results detected",
+      "records_found": 0,
+      "opt_out_submitted": false,
+      "urls": [],
+      "started_at": "2025-09-08T15:58:26",
+      "finished_at": "2025-09-08T15:58:32"
+    },
+    "reversephonecheck-com": {
+      "display_name": "ReversePhoneCheck.com",
+      "status": "not_found",
+      "message": "No results detected",
+      "records_found": 0,
+      "opt_out_submitted": false,
+      "urls": [],
+      "started_at": "2025-09-08T15:58:33",
+      "finished_at": "2025-09-08T15:58:54"
+    },
+    "spokeo-com": {
+      "display_name": "Spokeo.com",
+      "status": "found",
+      "message": "Matches found",
+      "records_found": 5,
+      "opt_out_submitted": false,
+      "urls": [
+        "https://www.spokeo.com/people/QR0001",
+        "https://www.spokeo.com/Peter-Roumeliotis/Illinois/Joliet/p2018020819005902407102538729111",
+        "https://www.spokeo.com/Peter-Roumeliotis/New-York/Astoria/p218184458491571405202",
+        "https://www.spokeo.com/Peter-Roumeliotis/New-York/Brooklyn/p2015021206111311435252612793620",
+        "https://www.spokeo.com/Peter-Roumeliotis/New-York/Hauppauge/p9363176541852679649735034"
+      ],
+      "started_at": "2025-09-08T15:58:55",
+      "finished_at": "2025-09-08T15:58:56"
+    },
+    "staterecords-org": {
+      "display_name": "StateRecords.org",
+      "status": "found",
+      "message": "Matches found",
+      "records_found": 5,
+      "opt_out_submitted": false,
+      "urls": [
+        "https://staterecords.org/",
+        "https://members.staterecords.org/customer/login",
+        "https://members.staterecords.org/customer/help",
+        "https://members.staterecords.org/customer/terms",
+        "https://members.staterecords.org/customer/privacy"
+      ],
+      "started_at": "2025-09-08T15:58:56",
+      "finished_at": "2025-09-08T15:59:05"
+    },
+    "telephonedirectories-us": {
+      "display_name": "TelephoneDirectories.us",
+      "status": "found",
+      "message": "Matches found",
+      "records_found": 3,
+      "opt_out_submitted": false,
+      "urls": [
+        "https://telephonedirectories.us/",
+        "https://telephonedirectories.us/People-Search",
+        "https://telephonedirectories.us/Reverse-Phone-Lookup"
+      ],
+      "started_at": "2025-09-08T15:59:05",
+      "finished_at": "2025-09-08T15:59:10"
+    },
+    "thatsthem-com": {
+      "display_name": "ThatsThem.com",
+      "status": "found",
+      "message": "Matches found",
+      "records_found": 5,
+      "opt_out_submitted": false,
+      "urls": [
+        "https://thatsthem.com/",
+        "https://thatsthem.com/people-search",
+        "https://thatsthem.com/reverse-address-lookup",
+        "https://thatsthem.com/reverse-phone-lookup",
+        "https://thatsthem.com/reverse-email-lookup"
+      ],
+      "started_at": "2025-09-08T15:59:10",
+      "finished_at": "2025-09-08T15:59:13"
+    },
+    "truepeoplesearch-com": {
+      "display_name": "TruePeopleSearch.com",
+      "status": "not_found",
+      "message": "403 Client Error: Forbidden for url: https://www.truepeoplesearch.com/results?name=Peter+Roumeliotis",
+      "records_found": 0,
+      "opt_out_submitted": false,
+      "urls": [],
+      "started_at": "2025-09-08T15:59:13",
+      "finished_at": "2025-09-08T15:59:13"
+    },
+    "unmask-com": {
+      "display_name": "Unmask.com",
+      "status": "not_found",
+      "message": "No results detected",
+      "records_found": 0,
+      "opt_out_submitted": false,
+      "urls": [],
+      "started_at": "2025-09-08T15:59:13",
+      "finished_at": "2025-09-08T15:59:19"
+    },
+    "verifyrecords-com": {
+      "display_name": "VerifyRecords.com",
+      "status": "found",
+      "message": "Matches found",
+      "records_found": 5,
+      "opt_out_submitted": false,
+      "urls": [
+        "http://verifyrecords.com",
+        "http://verifyrecords.com/About.html",
+        "http://members.verifyrecords.com/customer/login",
+        "http://verifyrecords.com/faq.html",
+        "http://verifyrecords.com/Privacy.html"
+      ],
+      "started_at": "2025-09-08T15:59:19",
+      "finished_at": "2025-09-08T15:59:30"
+    },
+    "mylife-com": {
+      "display_name": "MyLife.com",
+      "status": "found",
+      "message": "Matches found",
+      "records_found": 3,
+      "opt_out_submitted": false,
+      "urls": [
+        "https://mylife.com/showRegistration.pub",
+        "https://mylife.com/site/login.pubview",
+        "https://mylife.com/site/import-contacts.pubview"
+      ],
+      "started_at": "2025-09-08T15:59:30",
+      "finished_at": "2025-09-08T16:00:00"
+    },
+    "texaswarrantroundup-org": {
+      "display_name": "TexasWarrantRoundUp.org",
+      "status": "found",
+      "message": "Matches found",
+      "records_found": 1,
+      "opt_out_submitted": false,
+      "urls": [
+        "https://texaswarrantroundup.org/"
+      ],
+      "started_at": "2025-09-08T16:00:00",
+      "finished_at": "2025-09-08T16:00:01"
+    },
+    "information-com": {
+      "display_name": "Information.com",
+      "status": "found",
+      "message": "Matches found",
+      "records_found": 5,
+      "opt_out_submitted": false,
+      "urls": [
+        "https://information.com/",
+        "https://information.com/reverse-address-lookup/",
+        "https://information.com/email-lookup/",
+        "https://information.com/people/",
+        "https://information.com/public-records-search/"
+      ],
+      "started_at": "2025-09-08T16:00:01",
+      "finished_at": "2025-09-08T16:00:11"
+    },
+    "arrestwarrant-org": {
+      "display_name": "ArrestWarrant.org",
+      "status": "found",
+      "message": "Matches found",
+      "records_found": 4,
+      "opt_out_submitted": false,
+      "urls": [
+        "http://www.arrestwarrant.org",
+        "http://www.arrestwarrant.org/about.html",
+        "http://arrestwarrant.org/privacypolicy.html",
+        "http://arrestwarrant.org"
+      ],
+      "started_at": "2025-09-08T16:00:11",
+      "finished_at": "2025-09-08T16:00:29"
+    },
+    "usphonebook-com": {
+      "display_name": "USPhoneBook.com",
+      "status": "not_found",
+      "message": "No results detected",
+      "records_found": 0,
+      "opt_out_submitted": false,
+      "urls": [],
+      "started_at": "2025-09-08T16:00:29",
+      "finished_at": "2025-09-08T16:00:44"
+    },
+    "clustrmaps-com": {
+      "display_name": "ClustrMaps.com",
+      "status": "found",
+      "message": "Matches found",
+      "records_found": 2,
+      "opt_out_submitted": false,
+      "urls": [
+        "https://clustrmaps.com/",
+        "https://clustrmaps.com/p/"
+      ],
+      "started_at": "2025-09-08T16:00:44",
+      "finished_at": "2025-09-08T16:00:44"
+    },
+    "cyberbackgroundchecks-com": {
+      "display_name": "CyberBackgroundChecks.com",
+      "status": "not_found",
+      "message": "No results detected",
+      "records_found": 0,
+      "opt_out_submitted": false,
+      "urls": [],
+      "started_at": "2025-09-08T16:00:44",
+      "finished_at": "2025-09-08T16:00:55"
+    },
+    "opengovny-com": {
+      "display_name": "OpenGovNY.com",
+      "status": "found",
+      "message": "Matches found",
+      "records_found": 5,
+      "opt_out_submitted": false,
+      "urls": [
+        "https://opengovny.com/",
+        "https://opengovny.com/health-facility",
+        "https://opengovny.com/adult-care-facility",
+        "https://opengovny.com/public-authority",
+        "https://opengovny.com/public-authority-salary"
+      ],
+      "started_at": "2025-09-08T16:00:55",
+      "finished_at": "2025-09-08T16:00:56"
+    },
+    "realtyhop-com": {
+      "display_name": "RealtyHop.com",
+      "status": "not_found",
+      "message": "No results detected",
+      "records_found": 0,
+      "opt_out_submitted": false,
+      "urls": [],
+      "started_at": "2025-09-08T16:00:56",
+      "finished_at": "2025-09-08T16:01:01"
+    },
+    "advancedbackgroundchecks-com": {
+      "display_name": "AdvancedBackgroundChecks.com",
+      "status": "not_found",
+      "message": "No results detected",
+      "records_found": 0,
+      "opt_out_submitted": false,
+      "urls": [],
+      "started_at": "2025-09-08T16:01:02",
+      "finished_at": "2025-09-08T16:01:18"
+    },
+    "backgroundcheck-run": {
+      "display_name": "BackgroundCheck.run",
+      "status": "found",
+      "message": "Matches found",
+      "records_found": 4,
+      "opt_out_submitted": false,
+      "urls": [
+        "https://backgroundcheck.run/",
+        "https://backgroundcheck.run/pg/about",
+        "https://backgroundcheck.run/pg/contact",
+        "https://backgroundcheck.run/login/login"
+      ],
+      "started_at": "2025-09-08T16:01:18",
+      "finished_at": "2025-09-08T16:01:18"
+    },
+    "clubset-com": {
+      "display_name": "ClubSet.com",
+      "status": "found",
+      "message": "Matches found",
+      "records_found": 4,
+      "opt_out_submitted": false,
+      "urls": [
+        "https://clubset.com/static/about",
+        "https://clubset.com/static/contact",
+        "https://clubset.com/login/login",
+        "https://clubset.com/static/terms"
+      ],
+      "started_at": "2025-09-08T16:01:19",
+      "finished_at": "2025-09-08T16:01:23"
+    },
+    "councilon-com": {
+      "display_name": "Councilon.com",
+      "status": "found",
+      "message": "Matches found",
+      "records_found": 4,
+      "opt_out_submitted": false,
+      "urls": [
+        "https://councilon.com/login/login",
+        "https://councilon.com/ex/control/privacy",
+        "https://councilon.com/cms/about",
+        "https://councilon.com/in/"
+      ],
+      "started_at": "2025-09-08T16:01:23",
+      "finished_at": "2025-09-08T16:01:27"
+    },
+    "dataveria-com": {
+      "display_name": "Dataveria.com",
+      "status": "found",
+      "message": "Matches found",
+      "records_found": 4,
+      "opt_out_submitted": false,
+      "urls": [
+        "https://dataveria.com/",
+        "https://dataveria.com/p/Peter-Roumeliotis-32b26qa2",
+        "https://dataveria.com/p/Peter-Roumeliotis-2p4q3162",
+        "https://dataveria.com/name/peter/roumeliotis/"
+      ],
+      "started_at": "2025-09-08T16:01:27",
+      "finished_at": "2025-09-08T16:01:30"
+    },
+    "beenverified-com": {
+      "display_name": "BeenVerified.com",
+      "status": "found",
+      "message": "Matches found",
+      "records_found": 5,
+      "opt_out_submitted": false,
+      "urls": [
+        "https://www.beenverified.com/lp/f429ba/1/landing",
+        "https://www.beenverified.com/",
+        "https://www.beenverified.com/people/",
+        "https://www.beenverified.com/reverse-phone/",
+        "https://www.beenverified.com/email-search/"
+      ],
+      "started_at": "2025-09-08T16:01:30",
+      "finished_at": "2025-09-08T16:01:42"
+    },
+    "idcrawl-com": {
+      "display_name": "IDCrawl.com",
+      "status": "found",
+      "message": "Matches found",
+      "records_found": 4,
+      "opt_out_submitted": false,
+      "urls": [
+        "https://idcrawl.com/",
+        "https://idcrawl.com/username-search",
+        "https://idcrawl.com/phone-lookup",
+        "https://idcrawl.com/email-lookup"
+      ],
+      "started_at": "2025-09-08T16:01:42",
+      "finished_at": "2025-09-08T16:01:44"
+    },
+    "kwold-com": {
+      "display_name": "KWold.com",
+      "status": "found",
+      "message": "Matches found",
+      "records_found": 5,
+      "opt_out_submitted": false,
+      "urls": [
+        "https://kwold.com/login/login",
+        "https://kwold.com/ns/control/privacy",
+        "https://kwold.com/pg/about",
+        "https://kwold.com/abc/",
+        "https://kwold.com/pg/terms"
+      ],
+      "started_at": "2025-09-08T16:01:44",
+      "finished_at": "2025-09-08T16:01:49"
+    },
+    "neighborwho-com": {
+      "display_name": "NeighborWho.com",
+      "status": "found",
+      "message": "Matches found",
+      "records_found": 2,
+      "opt_out_submitted": false,
+      "urls": [
+        "https://www.neighborwho.com/app/login",
+        "https://www.neighborwho.com/lp/efde84/1/loading"
+      ],
+      "started_at": "2025-09-08T16:01:49",
+      "finished_at": "2025-09-08T16:02:04"
+    },
+    "newenglandfacts-com": {
+      "display_name": "NewEnglandFacts.com",
+      "status": "found",
+      "message": "Matches found",
+      "records_found": 4,
+      "opt_out_submitted": false,
+      "urls": [
+        "https://newenglandfacts.com/",
+        "https://newenglandfacts.com/pg/about",
+        "https://newenglandfacts.com/pg/contact",
+        "https://newenglandfacts.com/login/login"
+      ],
+      "started_at": "2025-09-08T16:02:04",
+      "finished_at": "2025-09-08T16:02:04"
+    },
+    "ownerly-com": {
+      "display_name": "Ownerly.com",
+      "status": "found",
+      "message": "Matches found",
+      "records_found": 3,
+      "opt_out_submitted": false,
+      "urls": [
+        "https://www.ownerly.com/login",
+        "https://www.ownerly.com/lp/8c2312/1/landing",
+        "https://www.ownerly.com/"
+      ],
+      "started_at": "2025-09-08T16:02:05",
+      "finished_at": "2025-09-08T16:02:05"
+    },
+    "numberguru-com": {
+      "display_name": "NumberGuru.com",
+      "status": "found",
+      "message": "Matches found",
+      "records_found": 5,
+      "opt_out_submitted": false,
+      "urls": [
+        "https://www.numberguru.com/phone/",
+        "https://www.numberguru.com/top-phone-numbers/",
+        "https://www.numberguru.com/most-commented-phone-numbers/",
+        "https://numberguru.com/lp/61a2e1/4/subscribe?direct_to_subscribe=true",
+        "https://www.numberguru.com/app/login"
+      ],
+      "started_at": "2025-09-08T16:02:06",
+      "finished_at": "2025-09-08T16:02:25"
+    },
+    "people-background-check-com": {
+      "display_name": "People-Background-Check.com",
+      "status": "found",
+      "message": "Matches found",
+      "records_found": 4,
+      "opt_out_submitted": false,
+      "urls": [
+        "https://people-background-check.com/",
+        "https://people-background-check.com/page/about",
+        "https://people-background-check.com/page/contact",
+        "https://people-background-check.com/login/login"
+      ],
+      "started_at": "2025-09-08T16:02:25",
+      "finished_at": "2025-09-08T16:02:26"
+    },
+    "peoplelooker-com": {
+      "display_name": "PeopleLooker.com",
+      "status": "found",
+      "message": "Matches found",
+      "records_found": 5,
+      "opt_out_submitted": false,
+      "urls": [
+        "https://www.peoplelooker.com/people-search/",
+        "https://www.peoplelooker.com/phone-number-search/",
+        "https://www.peoplelooker.com/phone-search/",
+        "https://www.peoplelooker.com/email-lookup/",
+        "https://www.peoplelooker.com/address-search/"
+      ],
+      "started_at": "2025-09-08T16:02:26",
+      "finished_at": "2025-09-08T16:02:40"
+    },
+    "persontrust-com": {
+      "display_name": "PersonTrust.com",
+      "status": "found",
+      "message": "Matches found",
+      "records_found": 4,
+      "opt_out_submitted": false,
+      "urls": [
+        "https://persontrust.com/",
+        "https://persontrust.com/page/about",
+        "https://persontrust.com/page/contact",
+        "https://persontrust.com/login/login"
+      ],
+      "started_at": "2025-09-08T16:02:40",
+      "finished_at": "2025-09-08T16:02:41"
+    },
+    "pub360-com": {
+      "display_name": "Pub360.com",
+      "status": "found",
+      "message": "Matches found",
+      "records_found": 5,
+      "opt_out_submitted": false,
+      "urls": [
+        "https://pub360.com/",
+        "https://pub360.com/about",
+        "https://pub360.com/contact",
+        "https://pub360.com/search?name=Peter+Roumeliotis&city_state=Alabama",
+        "https://pub360.com/search?name=Peter+Roumeliotis&city_state=California"
+      ],
+      "started_at": "2025-09-08T16:02:41",
+      "finished_at": "2025-09-08T16:02:41"
+    },
+    "radaris-com": {
+      "display_name": "Radaris.com",
+      "status": "found",
+      "message": "Matches found",
+      "records_found": 5,
+      "opt_out_submitted": false,
+      "urls": [
+        "https://radaris.com/",
+        "https://radaris.com/phone-lookup",
+        "https://radaris.com/reverse-address-lookup",
+        "https://radaris.com/people-search-by-photo",
+        "https://radaris.com/social-media-finder"
+      ],
+      "started_at": "2025-09-08T16:02:42",
+      "finished_at": "2025-09-08T16:02:43"
+    },
+    "stage-research-net": {
+      "display_name": "Stage-Research.net",
+      "status": "found",
+      "message": "Matches found",
+      "records_found": 4,
+      "opt_out_submitted": false,
+      "urls": [
+        "https://stage-research.net/page/about",
+        "https://stage-research.net/page/contact",
+        "https://stage-research.net/login/login",
+        "https://stage-research.net/ng/control/privacy"
+      ],
+      "started_at": "2025-09-08T16:02:44",
+      "finished_at": "2025-09-08T16:02:48"
+    },
+    "statecourts-org": {
+      "display_name": "StateCourts.org",
+      "status": "found",
+      "message": "Matches found",
+      "records_found": 4,
+      "opt_out_submitted": false,
+      "urls": [
+        "https://statecourts.org/",
+        "https://statecourts.org/inmate-search/",
+        "https://statecourts.org/help/",
+        "https://members.statecourts.org/customer/login"
+      ],
+      "started_at": "2025-09-08T16:02:48",
+      "finished_at": "2025-09-08T16:02:55"
+    },
+    "ussearch-com": {
+      "display_name": "USSearch.com",
+      "status": "not_found",
+      "message": "No results detected",
+      "records_found": 0,
+      "opt_out_submitted": false,
+      "urls": [],
+      "started_at": "2025-09-08T16:02:56",
+      "finished_at": "2025-09-08T16:03:07"
+    },
+    "verecor-com": {
+      "display_name": "Verecor.com",
+      "status": "found",
+      "message": "Matches found",
+      "records_found": 4,
+      "opt_out_submitted": false,
+      "urls": [
+        "https://verecor.com/page/about",
+        "https://verecor.com/page/contact",
+        "https://verecor.com/login/login",
+        "https://verecor.com/alpha/"
+      ],
+      "started_at": "2025-09-08T16:03:07",
+      "finished_at": "2025-09-08T16:03:12"
+    },
+    "vericora-com": {
+      "display_name": "Vericora.com",
+      "status": "found",
+      "message": "Matches found",
+      "records_found": 4,
+      "opt_out_submitted": false,
+      "urls": [
+        "https://vericora.com/page/about",
+        "https://vericora.com/page/contact",
+        "https://vericora.com/login/login",
+        "https://vericora.com/ng/control/privacy"
+      ],
+      "started_at": "2025-09-08T16:03:12",
+      "finished_at": "2025-09-08T16:03:16"
+    },
+    "veriforia-com": {
+      "display_name": "Veriforia.com",
+      "status": "found",
+      "message": "Matches found",
+      "records_found": 4,
+      "opt_out_submitted": false,
+      "urls": [
+        "https://veriforia.com/page/about",
+        "https://veriforia.com/page/contact",
+        "https://veriforia.com/login/login",
+        "https://veriforia.com/alpha/"
+      ],
+      "started_at": "2025-09-08T16:03:16",
+      "finished_at": "2025-09-08T16:03:20"
+    },
+    "veripages-com": {
+      "display_name": "VeriPages.com",
+      "status": "found",
+      "message": "Matches found",
+      "records_found": 4,
+      "opt_out_submitted": false,
+      "urls": [
+        "https://veripages.com/login/login",
+        "https://veripages.com/page/about",
+        "https://veripages.com/reverse-phone-lookup",
+        "https://veripages.com/criminal-records"
+      ],
+      "started_at": "2025-09-08T16:03:20",
+      "finished_at": "2025-09-08T16:03:25"
+    },
+    "virtory-com": {
+      "display_name": "Virtory.com",
+      "status": "found",
+      "message": "Matches found",
+      "records_found": 4,
+      "opt_out_submitted": false,
+      "urls": [
+        "https://virtory.com/login/login",
+        "https://virtory.com/prvt/control/privacy",
+        "https://virtory.com/info/about",
+        "https://virtory.com/directory/"
+      ],
+      "started_at": "2025-09-08T16:03:26",
+      "finished_at": "2025-09-08T16:03:31"
+    },
+    "wellnut-com": {
+      "display_name": "WellNut.com",
+      "status": "found",
+      "message": "Matches found",
+      "records_found": 4,
+      "opt_out_submitted": false,
+      "urls": [
+        "https://wellnut.com/data/about",
+        "https://wellnut.com/data/contact",
+        "https://wellnut.com/login/login",
+        "https://wellnut.com/noi/control/privacy"
+      ],
+      "started_at": "2025-09-08T16:03:31",
+      "finished_at": "2025-09-08T16:03:36"
+    },
+    "zabasearch-com": {
+      "display_name": "ZabaSearch.com",
+      "status": "not_found",
+      "message": "No results detected",
+      "records_found": 0,
+      "opt_out_submitted": false,
+      "urls": [],
+      "started_at": "2025-09-08T16:03:36",
+      "finished_at": "2025-09-08T16:03:46"
+    },
+    "city-data-com": {
+      "display_name": "City-Data.com",
+      "status": "found",
+      "message": "Matches found",
+      "records_found": 4,
+      "opt_out_submitted": false,
+      "urls": [
+        "https://city-data.com/",
+        "https://city-data.com//www.city-data.com/forum/",
+        "https://city-data.com/city/Alaska.html",
+        "https://city-data.com/city/Alabama.html"
+      ],
+      "started_at": "2025-09-08T16:03:46",
+      "finished_at": "2025-09-08T16:03:47"
+    },
+    "fastpeoplesearch-com": {
+      "display_name": "FastPeopleSearch.com",
+      "status": "not_found",
+      "message": "403 Client Error: Forbidden for url: https://www.fastpeoplesearch.com/name?name=Peter+Roumeliotis",
+      "records_found": 0,
+      "opt_out_submitted": false,
+      "urls": [],
+      "started_at": "2025-09-08T16:03:47",
+      "finished_at": "2025-09-08T16:03:48"
+    },
+    "inforver-com": {
+      "display_name": "Inforver.com",
+      "status": "found",
+      "message": "Matches found",
+      "records_found": 5,
+      "opt_out_submitted": false,
+      "urls": [
+        "https://inforver.com/",
+        "https://inforver.com/about",
+        "https://inforver.com/contact",
+        "https://inforver.com/search?name=Peter+Roumeliotis&city_state=Alabama",
+        "https://inforver.com/search?name=Peter+Roumeliotis&city_state=California"
+      ],
+      "started_at": "2025-09-08T16:03:48",
+      "finished_at": "2025-09-08T16:03:48"
+    },
+    "ofsearch-org": {
+      "display_name": "OfSearch.org",
+      "status": "found",
+      "message": "Matches found",
+      "records_found": 5,
+      "opt_out_submitted": false,
+      "urls": [
+        "https://ofsearch.org/",
+        "https://ofsearch.org/about",
+        "https://ofsearch.org/contact",
+        "https://ofsearch.org/search?name=Peter+Roumeliotis&city_state=Alabama",
+        "https://ofsearch.org/search?name=Peter+Roumeliotis&city_state=California"
+      ],
+      "started_at": "2025-09-08T16:03:49",
+      "finished_at": "2025-09-08T16:03:49"
+    },
+    "socialcatfish-com": {
+      "display_name": "SocialCatfish.com",
+      "status": "not_found",
+      "message": "No results detected",
+      "records_found": 0,
+      "opt_out_submitted": false,
+      "urls": [],
+      "started_at": "2025-09-08T16:03:49",
+      "finished_at": "2025-09-08T16:03:55"
+    },
+    "truthfinder-com": {
+      "display_name": "TruthFinder.com",
+      "status": "not_found",
+      "message": "No results detected",
+      "records_found": 0,
+      "opt_out_submitted": false,
+      "urls": [],
+      "started_at": "2025-09-08T16:03:55",
+      "finished_at": "2025-09-08T16:04:06"
+    },
+    "instantcheckmate-com": {
+      "display_name": "InstantCheckmate.com",
+      "status": "not_found",
+      "message": "No results detected",
+      "records_found": 0,
+      "opt_out_submitted": false,
+      "urls": [],
+      "started_at": "2025-09-08T16:04:06",
+      "finished_at": "2025-09-08T16:04:17"
+    },
+    "intelius-com": {
+      "display_name": "Intelius.com",
+      "status": "not_found",
+      "message": "No results detected",
+      "records_found": 0,
+      "opt_out_submitted": false,
+      "urls": [],
+      "started_at": "2025-09-08T16:04:17",
+      "finished_at": "2025-09-08T16:04:28"
+    },
+    "homes-com": {
+      "display_name": "Homes.com",
+      "status": "not_found",
+      "message": "No results detected",
+      "records_found": 0,
+      "opt_out_submitted": false,
+      "urls": [],
+      "started_at": "2025-09-08T16:04:28",
+      "finished_at": "2025-09-08T16:04:33"
+    },
+    "blockshopper-com": {
+      "display_name": "BlockShopper.com",
+      "status": "found",
+      "message": "Matches found",
+      "records_found": 5,
+      "opt_out_submitted": false,
+      "urls": [
+        "https://blockshopper.com/",
+        "https://blockshopper.com/sales",
+        "https://blockshopper.com/about-us",
+        "https://blockshopper.com/advertise",
+        "https://blockshopper.com/contact-us"
+      ],
+      "started_at": "2025-09-08T16:04:33",
+      "finished_at": "2025-09-08T16:04:35"
+    },
+    "allpeople-com": {
+      "display_name": "AllPeople.com",
+      "status": "not_found",
+      "message": "No results detected",
+      "records_found": 0,
+      "opt_out_submitted": false,
+      "urls": [],
+      "started_at": "2025-09-08T16:04:35",
+      "finished_at": "2025-09-08T16:04:41"
+    },
+    "besthistorysites-net": {
+      "display_name": "BestHistorySites.net",
+      "status": "not_found",
+      "message": "No results detected",
+      "records_found": 0,
+      "opt_out_submitted": false,
+      "urls": [],
+      "started_at": "2025-09-08T16:04:41",
+      "finished_at": "2025-09-08T16:04:46"
+    },
+    "checkpeople-com": {
+      "display_name": "CheckPeople.com",
+      "status": "found",
+      "message": "Matches found",
+      "records_found": 4,
+      "opt_out_submitted": false,
+      "urls": [
+        "https://checkpeople.com",
+        "https://checkpeople.com/reverse-phone-lookup",
+        "https://checkpeople.com/background-check",
+        "https://checkpeople.com/arrest-records"
+      ],
+      "started_at": "2025-09-08T16:04:47",
+      "finished_at": "2025-09-08T16:04:53"
+    },
+    "cocofinder-com": {
+      "display_name": "CocoFinder.com",
+      "status": "not_found",
+      "message": "No results detected",
+      "records_found": 0,
+      "opt_out_submitted": false,
+      "urls": [],
+      "started_at": "2025-09-08T16:04:53",
+      "finished_at": "2025-09-08T16:04:58"
+    },
+    "courtcasefinder-com": {
+      "display_name": "CourtCaseFinder.com",
+      "status": "found",
+      "message": "Matches found",
+      "records_found": 4,
+      "opt_out_submitted": false,
+      "urls": [
+        "https://courtcasefinder.com",
+        "https://courtcasefinder.com/services",
+        "https://courtcasefinder.com/register",
+        "https://courtcasefinder.com/help"
+      ],
+      "started_at": "2025-09-08T16:04:58",
+      "finished_at": "2025-09-08T16:05:12"
+    },
+    "fastbackgroundcheck-com": {
+      "display_name": "FastBackgroundCheck.com",
+      "status": "not_found",
+      "message": "No results detected",
+      "records_found": 0,
+      "opt_out_submitted": false,
+      "urls": [],
+      "started_at": "2025-09-08T16:05:12",
+      "finished_at": "2025-09-08T16:05:23"
+    },
+    "governmentregistry-org": {
+      "display_name": "GovernmentRegistry.org",
+      "status": "found",
+      "message": "Matches found",
+      "records_found": 4,
+      "opt_out_submitted": false,
+      "urls": [
+        "https://www.governmentregistry.org",
+        "https://www.governmentregistry.org/terms",
+        "https://www.governmentregistry.org/privacy",
+        "https://www.governmentregistry.org/contact"
+      ],
+      "started_at": "2025-09-08T16:05:23",
+      "finished_at": "2025-09-08T16:05:24"
+    },
+    "infotracer-com": {
+      "display_name": "InfoTracer.com",
+      "status": "found",
+      "message": "Matches found",
+      "records_found": 2,
+      "opt_out_submitted": false,
+      "urls": [
+        "https://infotracer.com/privacy/",
+        "https://infotracer.com/terms/"
+      ],
+      "started_at": "2025-09-08T16:05:24",
+      "finished_at": "2025-09-08T16:05:26"
+    },
+    "kidslivesafe-com": {
+      "display_name": "KidsLiveSafe.com",
+      "status": "found",
+      "message": "Matches found",
+      "records_found": 5,
+      "opt_out_submitted": false,
+      "urls": [
+        "https://kidslivesafe.com/",
+        "https://kidslivesafe.com/help-center/sample-public-records-search-report",
+        "https://members.kidslivesafe.com/login",
+        "https://kidslivesafe.com/neighborhood/index",
+        "https://kidslivesafe.com/people/index"
+      ],
+      "started_at": "2025-09-08T16:05:26",
+      "finished_at": "2025-09-08T16:05:39"
+    },
+    "myheritage-com": {
+      "display_name": "MyHeritage.com",
+      "status": "found",
+      "message": "Matches found",
+      "records_found": 4,
+      "opt_out_submitted": false,
+      "urls": [
+        "https://myheritage.com/",
+        "https://www.myheritage.com/dna",
+        "https://www.myheritage.com/family-tree",
+        "https://www.myheritage.com"
+      ],
+      "started_at": "2025-09-08T16:05:40",
+      "finished_at": "2025-09-08T16:05:43"
+    },
+    "neighbor-report": {
+      "display_name": "Neighbor.Report",
+      "status": "found",
+      "message": "Matches found",
+      "records_found": 5,
+      "opt_out_submitted": false,
+      "urls": [
+        "https://neighbor.report/",
+        "https://neighbor.report/d/",
+        "https://neighbor.report/about",
+        "https://neighbor.report/login/",
+        "https://neighbor.report/register/"
+      ],
+      "started_at": "2025-09-08T16:05:43",
+      "finished_at": "2025-09-08T16:05:44"
+    },
+    "people-search-org": {
+      "display_name": "People-Search.org",
+      "status": "found",
+      "message": "Matches found",
+      "records_found": 5,
+      "opt_out_submitted": false,
+      "urls": [
+        "https://www.people-search.org/",
+        "https://www.people-search.org/people",
+        "https://www.people-search.org/reverse-phone-lookup",
+        "https://www.people-search.org/people/a/",
+        "https://www.people-search.org/people/b/"
+      ],
+      "started_at": "2025-09-08T16:05:44",
+      "finished_at": "2025-09-08T16:05:53"
+    },
+    "peoplewhiz-com": {
+      "display_name": "PeopleWhiz.com",
+      "status": "found",
+      "message": "Matches found",
+      "records_found": 5,
+      "opt_out_submitted": false,
+      "urls": [
+        "https://peoplewhiz.com/",
+        "https://peoplewhiz.com/about",
+        "https://peoplewhiz.com/people-whiz-difference",
+        "https://peoplewhiz.com/parameters-of-use",
+        "https://peoplewhiz.com/faq"
+      ],
+      "started_at": "2025-09-08T16:05:53",
+      "finished_at": "2025-09-08T16:06:17"
+    },
+    "publicdatacheck-com": {
+      "display_name": "PublicDataCheck.com",
+      "status": "found",
+      "message": "Matches found",
+      "records_found": 5,
+      "opt_out_submitted": false,
+      "urls": [
+        "https://publicdatacheck.com/",
+        "https://publicdatacheck.com/help-center/sample-public-records-search-report",
+        "https://members.publicdatacheck.com/login",
+        "https://vehicle.publicdatacheck.com",
+        "https://publicdatacheck.com/help-center/terms"
+      ],
+      "started_at": "2025-09-08T16:06:17",
+      "finished_at": "2025-09-08T16:06:32"
+    },
+    "publicrecordreports-com": {
+      "display_name": "PublicRecordReports.com",
+      "status": "found",
+      "message": "Matches found",
+      "records_found": 5,
+      "opt_out_submitted": false,
+      "urls": [
+        "https://publicrecordreports.com/",
+        "https://members.publicrecordreports.com/login",
+        "https://publicrecordreports.com/help-center/terms",
+        "https://publicrecordreports.com/help-center/help-center",
+        "https://publicrecordreports.com/help-center/faqs"
+      ],
+      "started_at": "2025-09-08T16:06:32",
+      "finished_at": "2025-09-08T16:06:45"
+    },
+    "recordsfinder-com": {
+      "display_name": "RecordsFinder.com",
+      "status": "found",
+      "message": "Matches found",
+      "records_found": 4,
+      "opt_out_submitted": false,
+      "urls": [
+        "https://recordsfinder.com/",
+        "https://recordsfinder.com/arrest/",
+        "https://recordsfinder.com/asset/",
+        "https://recordsfinder.com/bankruptcy/"
+      ],
+      "started_at": "2025-09-08T16:06:45",
+      "finished_at": "2025-09-08T16:06:52"
+    },
+    "rocketreach-co": {
+      "display_name": "RocketReach.co",
+      "status": "found",
+      "message": "Matches found",
+      "records_found": 4,
+      "opt_out_submitted": false,
+      "urls": [
+        "https://rocketreach.co/login",
+        "https://rocketreach.co/pricing",
+        "https://rocketreach.co/browser_extension",
+        "https://rocketreach.co/splash"
+      ],
+      "started_at": "2025-09-08T16:06:52",
+      "finished_at": "2025-09-08T16:06:53"
+    },
+    "searchquarry-com": {
+      "display_name": "SearchQuarry.com",
+      "status": "found",
+      "message": "Matches found",
+      "records_found": 4,
+      "opt_out_submitted": false,
+      "urls": [
+        "https://www.searchquarry.com/",
+        "https://searchquarry.com/",
+        "https://searchquarry.com/features",
+        "https://searchquarry.com/about-us"
+      ],
+      "started_at": "2025-09-08T16:06:53",
+      "finished_at": "2025-09-08T16:07:00"
+    },
+    "thisnumber-com": {
+      "display_name": "ThisNumber.com",
+      "status": "found",
+      "message": "Matches found",
+      "records_found": 4,
+      "opt_out_submitted": false,
+      "urls": [
+        "https://thisnumber.com/",
+        "https://www.thisnumber.com/",
+        "https://thisnumber.com/terms",
+        "https://thisnumber.com/privacy"
+      ],
+      "started_at": "2025-09-08T16:07:00",
+      "finished_at": "2025-09-08T16:07:05"
+    },
+    "verifypublicrecords-com": {
+      "display_name": "VerifyPublicRecords.com",
+      "status": "found",
+      "message": "Matches found",
+      "records_found": 1,
+      "opt_out_submitted": false,
+      "urls": [
+        "http://verifypublicrecords.com/index.php"
+      ],
+      "started_at": "2025-09-08T16:07:05",
+      "finished_at": "2025-09-08T16:07:28"
+    },
+    "voterrecords-com": {
+      "display_name": "VoterRecords.com",
+      "status": "not_found",
+      "message": "No results detected",
+      "records_found": 0,
+      "opt_out_submitted": false,
+      "urls": [],
+      "started_at": "2025-09-08T16:07:28",
+      "finished_at": "2025-09-08T16:07:37"
+    },
+    "whitepages-com": {
+      "display_name": "WhitePages.com",
+      "status": "not_found",
+      "message": "403 Client Error: Forbidden for url: https://www.whitepages.com/name/Peter-Roumeliotis",
+      "records_found": 0,
+      "opt_out_submitted": false,
+      "urls": [],
+      "started_at": "2025-09-08T16:07:37",
+      "finished_at": "2025-09-08T16:07:37"
+    },
+    "usatrace-com": {
+      "display_name": "USATrace.com",
+      "status": "found",
+      "message": "Matches found",
+      "records_found": 4,
+      "opt_out_submitted": false,
+      "urls": [
+        "https://www.usatrace.com/",
+        "https://www.usatrace.com/author/ron-richardson/",
+        "https://www.usatrace.com/wp-content/uploads/2019/02/usa-people-search.jpg",
+        "mailto:research@usatrace.com"
+      ],
+      "started_at": "2025-09-08T16:07:37",
+      "finished_at": "2025-09-08T16:07:39"
+    },
+    "usa-people-search-com": {
+      "display_name": "USA-People-Search.com",
+      "status": "not_found",
+      "message": "No results detected",
+      "records_found": 0,
+      "opt_out_submitted": false,
+      "urls": [],
+      "started_at": "2025-09-08T16:07:39",
+      "finished_at": "2025-09-08T16:07:53"
+    },
+    "searchpeoplefree-com": {
+      "display_name": "SearchPeopleFree.com",
+      "status": "not_found",
+      "message": "No results detected",
+      "records_found": 0,
+      "opt_out_submitted": false,
+      "urls": [],
+      "started_at": "2025-09-08T16:07:53",
+      "finished_at": "2025-09-08T16:08:04"
+    },
+    "411-com": {
+      "display_name": "411.com",
+      "status": "found",
+      "message": "Matches found",
+      "records_found": 3,
+      "opt_out_submitted": false,
+      "urls": [
+        "https://411.com/",
+        "https://411.com/reverse-phone-lookup",
+        "https://411.com/people-search"
+      ],
+      "started_at": "2025-09-08T16:08:05",
+      "finished_at": "2025-09-08T16:08:07"
+    }
+  }
+}

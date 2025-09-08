@@ -1,0 +1,23 @@
+{
+  "brokers": [
+    {
+      "name": "Spokeo",
+      "module": "spokeo",
+      "optout_url": "https://www.spokeo.com/opt_out",
+      "notes": "Requires email verification link."
+    },
+    {
+      "name": "Whitepages",
+      "module": "whitepages",
+      "optout_url": "https://www.whitepages.com/suppression_requests",
+      "notes": "May require phone verification."
+    },
+    {
+      "name": "TruthFinder",
+      "module": "truthfinder",
+      "optout_url": "https://www.truthfinder.com/opt-out/",
+      "notes": "Manual form (ID upload possible).",
+      "disabled": true
+    }
+  ]
+}
