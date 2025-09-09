@@ -16,7 +16,20 @@ def save_results(name: str, results: List[BrokerResult], outdir: str):
     json_path = f"{base}_results.json"
     with open(json_path, "w", encoding="utf-8") as f:
         json.dump([r.to_dict() for r in results], f, indent=2, ensure_ascii=False)
-    return csv_path, json_path
+    # Write a human-readable text summary including a table and checklist
+    txt_path = f"{base}_results.txt"
+    try:
+        table = tabulate(pd.DataFrame([r.to_dict() for r in results]).fillna(""), headers="keys", tablefmt="github", showindex=False)
+    except Exception:
+        table = ""
+    checklist = generate_todo(name, ClientProfile(name=name), results)
+    with open(txt_path, "w", encoding="utf-8") as f:
+        if table:
+            f.write(table)
+            f.write("\n\n")
+        f.write(checklist)
+        f.write("\n")
+    return csv_path, json_path, txt_path
 
 def print_summary(results: List[BrokerResult]):
     rows = [r.to_dict() for r in results]

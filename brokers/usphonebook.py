@@ -3,19 +3,16 @@ from urllib.parse import quote_plus
 from models import ClientProfile, BrokerResult
 from utils import polite_get, jitter_sleep
 
-BASE = "https://www.truepeoplesearch.com"
+BASE = "https://www.usphonebook.com"
 
 def search(profile: ClientProfile) -> BrokerResult:
-    name_q = quote_plus(profile.name)
-    loc = ""
-    if profile.city and profile.state:
-        loc = f"&citystatezip={quote_plus(profile.city + ' ' + profile.state)}"
-    elif profile.city:
-        loc = f"&citystatezip={quote_plus(profile.city)}"
-    elif profile.state:
-        loc = f"&citystatezip={quote_plus(profile.state)}"
-    url = f"{BASE}/results?name={name_q}{loc}"
-
+    # Use a simple query endpoint that accepts generic term
+    term = profile.name
+    if profile.city:
+        term += f" {profile.city}"
+    if profile.state:
+        term += f" {profile.state}"
+    url = f"{BASE}/search?term={quote_plus(term)}"
     r = polite_get(url, timeout=10.0, attempts=2, allow_fail=True)
     html = getattr(r, "text", "") or ""
     found = False
@@ -32,13 +29,12 @@ def search(profile: ClientProfile) -> BrokerResult:
         h = soup.find(["h1","h2","title"]) or None
         if h:
             title = h.get_text(" ", strip=True)[:160]
-
     jitter_sleep()
     return BrokerResult(
-        broker="TruePeopleSearch",
+        broker="USPhoneBook",
         found=found,
         url=url,
         title=title,
-        notes="Opt-out: https://www.truepeoplesearch.com/removal"
+        notes="Opt-out: https://www.usphonebook.com/opt-out"
     )
 

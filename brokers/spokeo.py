@@ -8,8 +8,11 @@ BASE = "https://www.spokeo.com"
 def search(profile: ClientProfile) -> BrokerResult:
     q = quote_plus(profile.name)
     url = f"{BASE}/search?q={q}"
+    # Append location hints if provided; city alone helps narrow results
     if profile.city and profile.state:
         url += quote_plus(f" {profile.city} {profile.state}")
+    elif profile.city:
+        url += quote_plus(f" {profile.city}")
     r = polite_get(url)
     soup = BeautifulSoup(r.text, "lxml")
     found, snippet, title = False, None, None

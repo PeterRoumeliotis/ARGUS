@@ -7,17 +7,44 @@ def load_sites():
     with open("sites.json", "r", encoding="utf-8") as f:
         return json.load(f)["brokers"]
 
-def run_discovery(profile: ClientProfile):
+def run_discovery(profile: ClientProfile, progress_cb=None, include_disabled: bool = False):
+    """Run discovery across configured sites.
+
+    If provided, progress_cb will be called as progress_cb(percent:int, message:str).
+    """
     results = []
-    for site in load_sites():
-        if site.get("disabled"):
-            continue
+    raw_sites = load_sites()
+    sites = [s for s in raw_sites if (include_disabled or not s.get("disabled"))]
+    total = max(1, len(sites))
+
+    if progress_cb:
+        progress_cb(0, "Starting discovery")
+
+    for idx, site in enumerate(sites):
         module_name = f"brokers.{site['module']}"
-        mod = importlib.import_module(module_name)
-        r: BrokerResult = mod.search(profile)
+        if progress_cb:
+            progress_cb(int((idx / total) * 100), f"Searching {site.get('name') or site.get('module')}")
+        try:
+            mod = importlib.import_module(module_name)
+            # Generic broker requires site metadata (domain, etc.)
+            if site.get('module') == 'generic':
+                r: BrokerResult = mod.search(profile, site)  # type: ignore[call-arg]
+            else:
+                r: BrokerResult = mod.search(profile)
+        except Exception as e:
+            # Ensure one broken site does not stall the run
+            r = BrokerResult(
+                broker=site.get("name") or site.get("module") or "unknown",
+                found=False,
+                notes=f"Error during search: {e}"
+            )
         if site.get("optout_url") and not r.notes:
             r.notes = f"Opt-out: {site['optout_url']}"
         results.append(r)
+        if progress_cb:
+            progress_cb(int(((idx + 1) / total) * 100), f"Processed {site.get('name') or site.get('module')}")
+    if progress_cb:
+        progress_cb(100, "Discovery complete")
     return results
 
 def main():
@@ -54,8 +81,8 @@ def main():
         with open(cache_path, "r", encoding="utf-8") as f:
             data = json.load(f)
         results = [BrokerResult(**r) for r in data]
-        csv_path, json_path = save_results(args.name, results, args.out)
-        print(f"Saved: {csv_path}\nSaved: {json_path}\n")
+        csv_path, json_path, txt_path = save_results(args.name, results, args.out)
+        print(f"Saved: {csv_path}\nSaved: {json_path}\nSaved: {txt_path}\n")
         print(generate_todo(args.name, ClientProfile(name=args.name), results))
 
 if __name__ == "__main__":

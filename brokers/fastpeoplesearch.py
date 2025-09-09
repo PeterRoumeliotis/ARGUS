@@ -1,58 +1,42 @@
-from typing import List, Optional
-import requests
 from bs4 import BeautifulSoup
+from urllib.parse import quote_plus
+from models import ClientProfile, BrokerResult
+from utils import polite_get, jitter_sleep
 
+BASE = "https://www.fastpeoplesearch.com"
 
-def _http_get(url: str, params: dict | None, timeout: float) -> requests.Response:
-    headers = {
-        "User-Agent": (
-            "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
-            "(KHTML, like Gecko) Chrome/120.0 Safari/537.36"
-        ),
-        "Accept-Language": "en-US,en;q=0.9",
-        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
-    }
-    return requests.get(url, params=params or {}, headers=headers, timeout=timeout)
+def _name_path(name: str) -> str:
+    parts = [p for p in (name or "").strip().split() if p]
+    return "-".join(parts)
 
+def search(profile: ClientProfile) -> BrokerResult:
+    # Try path-based query; falls back gracefully
+    path = _name_path(profile.name)
+    url = f"{BASE}/name/{quote_plus(path)}"
+    if profile.city and profile.state:
+        url += f"/{quote_plus(profile.city)}-{quote_plus(profile.state)}"
+    r = polite_get(url, timeout=10.0, attempts=2, allow_fail=True)
+    html = getattr(r, "text", "") or ""
+    found = False
+    title = None
+    if html:
+        soup = BeautifulSoup(html, "lxml")
+        text = soup.get_text(" ", strip=True).lower()
+        parts = profile.name.split()
+        if parts and len(parts) >= 2:
+            first, last = parts[0].lower(), parts[-1].lower()
+            found = (first in text and last in text)
+        elif parts:
+            found = parts[0].lower() in text
+        h = soup.find(["h1","h2","title"]) or None
+        if h:
+            title = h.get_text(" ", strip=True)[:160]
+    jitter_sleep()
+    return BrokerResult(
+        broker="FastPeopleSearch",
+        found=found,
+        url=url,
+        title=title,
+        notes="Opt-out: https://www.fastpeoplesearch.com/removal"
+    )
 
-def search(full_name: str, city: Optional[str] = None, state: Optional[str] = None,
-           timeout: float = 15.0, limit: int = 5) -> List[str]:
-    """Query FastPeopleSearch results and return matching URLs."""
-    # Two patterns seem to work: query params and path-based
-    base = "https://www.fastpeoplesearch.com/name"
-    params = {"name": full_name}
-    if state or city:
-        loc = ", ".join(filter(None, [city, state]))
-        params["citystatezip"] = loc
-    resp = _http_get(base, params, timeout)
-    resp.raise_for_status()
-    soup = BeautifulSoup(resp.text, "html.parser")
-    urls: List[str] = []
-    parts = full_name.lower().split()
-    first = parts[0] if parts else ""
-    last = parts[-1] if len(parts) > 1 else ""
-    for a in soup.select("a[href]"):
-        href = a.get("href")
-        if not href:
-            continue
-        if href.startswith("/"):
-            href = "https://www.fastpeoplesearch.com" + href
-        if "fastpeoplesearch.com" not in href:
-            continue
-        path_l = href.lower()
-        if not ("/person/" in path_l or "/name/" in path_l):
-            continue
-        text_l = a.get_text(" ", strip=True).lower()
-        if first and last and not ((first in path_l and last in path_l) or (first in text_l and last in text_l)):
-            continue
-        urls.append(href)
-        if len(urls) >= limit:
-            break
-    # De-dupe
-    seen = set()
-    out = []
-    for u in urls:
-        if u not in seen:
-            out.append(u)
-            seen.add(u)
-    return out[:limit]
